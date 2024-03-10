@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IndianEatery</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #ff5733;
+            text-align: center;
+            padding: 20px;
+            color: #fff;
+        }
+        .container {
+            margin: 0 auto;
+            max-width: 1200px; /* or any other value */
+            padding: 0 20px; /* adding 20px of padding */
+        }
+        
+        .chatbot-container {
+            text-align: center;
+        }
+        .chatbot-iframe {
+            width: 350px;
+            height: 430px;
+            border: none;
+        }
+        .location {
+            text-align: center;
+            margin-top: 20px;
+            font-style: italic;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>IndianEatery</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Menu</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <div class="container">
+        <!-- Your menu section with photos goes here -->
+        <section>
+            <h2>Menu</h2>
+            <div class="menu-item">
+                <img src="menu1.jpg" alt="Pav Bhaji">
+                <h3>Pav Bhaji</h3>
+                <p>A delicious Indian street food dish consisting of a spicy vegetable curry served with soft bread rolls.</p>
+            </div>
+            <div class="menu-item">
+                <img src="menu2.jpg" alt="Chole Bhature">
+                <h3>Chole Bhature</h3>
+                <p>A classic Punjabi dish featuring spicy chickpea curry served with deep-fried bread.</p>
+            </div>
+            <div class="menu-item">
+                <img src="menu3.jpg" alt="Chole Bhature">
+                <h3>Chole Bhature</h3>
+                <p>A classic Punjabi dish featuring spicy chickpea curry served with deep-fried bread.</p>
+            </div>
+        </section>
+    <div class="container">
+        <div class="chatbot-container">
+            <iframe class="chatbot-iframe" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/3ba97423-9fd0-4100-9cf7-b2c2c4678d99"></iframe>
+        </div>
+        <p>Feel free to chat with our chatbot for assistance!</p>
+        <div class="location">
+            Location: Worcester, Massachusetts
+        </div>
+    </div>
+</body>
+</html>
