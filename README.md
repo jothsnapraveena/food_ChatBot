@@ -1,4 +1,5 @@
 # Food Ordering and Tracking Chatbot
+![Food Chatbot Screenshot](https://raw.githubusercontent.com/jothsnapraveena/food_ChatBot/master/Screenshot%202025-01-06%20202212.png)
 
 This project implements a conversational chatbot using Dialogflow to facilitate food ordering and order tracking. The chatbot assists users in placing new orders for food items and provides features to track the status of their orders.
 In my current implementation, I've employed ngrok to expose my local server to a public URL, facilitating testing and development. However, it's important to acknowledge that the limited version of ngrok ceases the tunnel upon closure of both the command prompt and the Python process
