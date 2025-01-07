@@ -26,7 +26,9 @@ In my current implementation, I've employed ngrok to expose my local server to a
 - To place a new order, users can specify the food items they wish to order, provide delivery information, and confirm the order details.
 - Users can inquire about the status of their existing orders by asking the chatbot for order updates.
 
+## Preview 
 
+![Food Chatbot Screenshot](https://github.com/jothsnapraveena/food_ChatBot/blob/master/Screenshot%202025-01-06%20202238.png)
 
 ## Acknowledgements
 
