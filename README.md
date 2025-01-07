@@ -29,6 +29,7 @@ In my current implementation, I've employed ngrok to expose my local server to a
 ## Preview 
 
 ![Food Chatbot Screenshot](https://github.com/jothsnapraveena/food_ChatBot/blob/master/Screenshot%202025-01-06%20202238.png)
+![Food Chatbot Screenshot](https://github.com/jothsnapraveena/food_ChatBot/blob/master/Screenshot%202025-01-06%20202253.png)
 
 ## Acknowledgements
 
