@@ -31,8 +31,5 @@ In my current implementation, I've employed ngrok to expose my local server to a
 ![Food Chatbot Screenshot](https://github.com/jothsnapraveena/food_ChatBot/blob/master/Screenshot%202025-01-06%20202238.png)
 ![Food Chatbot Screenshot](https://github.com/jothsnapraveena/food_ChatBot/blob/master/Screenshot%202025-01-06%20202253.png)
 
-## Acknowledgements
 
-- Special thanks to Dialogflow, FastAPI, and MySQL for providing excellent tools and technologies for building this chatbot project.
-- Thanks to @ Dhaval Patel,codebasics
 
